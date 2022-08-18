@@ -1,4 +1,4 @@
-# DPM Desktop UI
+# Visual ML Desktop UI
 Desktop UI using [Electron.js](https://www.electronjs.org/)
 
 
